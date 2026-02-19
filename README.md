@@ -6,4 +6,5 @@
 [Laboratório 01](lab-01) - Sistema de Controle de Versão
 
 ## Aulas
-[Aula 03](aula-03) - Introdução à Linguagem Java
+[Aula 03](aula-03) - Resolução do Laboratório 1
+[Aula 04](aula-04) - Introdução à Linguagem Java
