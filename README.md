@@ -4,6 +4,7 @@
 
 ## Laboratórios
 [Laboratório 01](lab-01) - Sistema de Controle de Versão
+
 [Laboratório 02](lab-02) - Revisão da linguagem Java
 
 ## Aulas
