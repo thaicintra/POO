@@ -27,6 +27,6 @@ public class Main {
             estacao = "primavera";
         }
 
-        IO.print("A estação do ano correspondente é: " + estacao);
+        IO.print(estacao);
     }
 }
