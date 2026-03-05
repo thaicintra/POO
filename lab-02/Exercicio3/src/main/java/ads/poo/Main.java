@@ -3,9 +3,6 @@ package ads.poo;
 public class Main {
     static void main(String[] args) {
 
-        if (args.length == 0) {
-            System.out.println("Leitura inválida. Insira os argumentos");
-        }
         String figura = args[0].toLowerCase();
 
         switch (figura) {
