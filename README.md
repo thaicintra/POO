@@ -15,3 +15,5 @@
 [Aula 05](aula-05) - Introduçõa à Linguagem Java
 
 [Aula 07](aula-07) - Argumentos e Random
+
+[Aula 08](aula-08) - Paradigma Orientada ao Objeto
