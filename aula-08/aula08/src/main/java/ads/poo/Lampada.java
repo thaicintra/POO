@@ -14,5 +14,7 @@ public class Lampada {
         ligada = !ligada;
         return ligada;
     }
+
+
 }
 
